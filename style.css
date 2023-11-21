@@ -9,4 +9,12 @@
 .box {
     background-color: lightblue;
     border: 1px white solid;
+    padding: 1em;
+    text-align: center;
+}
+
+.nested-box {
+    background-color: greenyellow;
+    border: 1px white solid;
+    text-align: center;
 }
