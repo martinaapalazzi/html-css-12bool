@@ -18,3 +18,19 @@
     border: 1px white solid;
     text-align: center;
 }
+
+.row-space-around {
+    justify-content: space-around;
+}
+
+.row-space-between {
+    justify-content: space-between;
+}
+
+.row-align-middle {
+    justify-content: center;
+}
+
+.row-align-end {
+    justify-content: flex-end;
+}
