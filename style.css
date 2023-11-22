@@ -9,7 +9,7 @@
 .box {
     background-color: lightblue;
     border: 1px white solid;
-    padding: 1em;
+    padding: 10px;
     text-align: center;
 }
 
@@ -27,10 +27,25 @@
     justify-content: space-between;
 }
 
-.row-align-middle {
+.justify-content-middle {
     justify-content: center;
 }
 
-.row-align-end {
+.justify-content-end {
     justify-content: flex-end;
 }
+
+.align-items-middle {
+    align-items: center ;
+}
+
+.align-items-end {
+    align-items: flex-end;
+}
+
+
+
+.bigger-box {
+    padding: 40px
+}
+
